@@ -1,0 +1,8 @@
+# Project exclude paths
+/JavaTest/.gradle/
+/JavaTest/build/
+/JavaTest/build/classes/java/main/
+/out/
+/.idea/
+.DS_Store
+
